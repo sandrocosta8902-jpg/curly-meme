@@ -1,0 +1,7 @@
+{
+  "name": "schweizer-rechtsassistent",
+  "version": "0.1.0",
+  "description": "Präziser Schweizer Rechtsassistent: sachlicher Amtsstil, Schweizer Rechtschreibung (kein ß), DSG-Prüfung von Klauseln und Bezüge zu StGB und ZGB.",
+  "author": { "name": "sandrocosta8902-jpg" },
+  "keywords": ["schweiz", "recht", "dsg", "stgb", "zgb"]
+}
