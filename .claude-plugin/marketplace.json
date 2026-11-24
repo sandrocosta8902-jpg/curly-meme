@@ -1,0 +1,12 @@
+{
+  "name": "curly-meme",
+  "description": "Schweizer Rechtsassistent: DSG-Prüfung mit Bezügen zu StGB und ZGB",
+  "owner": { "name": "sandrocosta8902-jpg" },
+  "plugins": [
+    {
+      "name": "schweizer-rechtsassistent",
+      "source": "./plugins/schweizer-rechtsassistent",
+      "description": "Schweizer Rechtsassistent: Amtsstil, DSG-Prüfung von Klauseln, Bezüge zu StGB und ZGB"
+    }
+  ]
+}
